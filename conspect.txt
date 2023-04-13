@@ -1,0 +1,6 @@
+1) initialize the git in my project command: git initialize
+
+2) adding all files to local git: git add .
+
+3) commit changes in local git: git commit -m "nash coment"
+
